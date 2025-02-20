@@ -10,4 +10,4 @@ If you have Windows 10 or an earlier build of Windows 11 installed on a PC that 
 > [!NOTE]
 > _That Microsoft also has also created an official registry hack to bypass TPM 2.0 and CPU requirements for an in-place upgrade. However, this method still requires at least TPM 1.2 so, if you have no TPM at all, it's worthless._
 
-<p align="center">Support Made with Trust ❤️</p>
+### <p align="center">Support Made with Trust ❤️</p>
