@@ -1,4 +1,4 @@
-# **<p align="center">Skip-TPM-Check-on-Dynamic-Update**
+# **<p align="center">Skip TPM Check on Dynamic Update**
 **<p align="center">How to Bypass Windows 11's TPM, CPU and RAM Requirements**
   
 Microsoft has some strict hardware requirements that your PC must meet to install Windows 11, including TPM 2.0 support. This means that not only older computers, but virtual machines will refuse to upgrade from Windows 10, giving you a message that "this PC doesn't currently meet Windows 11 system requirements." 
